@@ -1,2 +1,5 @@
 def main() -> None:
-    print("Hello from dbt-snowflake!")
+    print("Hello dbt-snowflake!")
+if __name__ == "__main__":
+    main()
+    
